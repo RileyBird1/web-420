@@ -1,0 +1,16 @@
+body {
+  color:black;
+  background-color: rgb(251, 244, 235);
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 5%;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: antiquewhite;
+  text-align: center;
+  padding: 10px;
+}
